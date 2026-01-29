@@ -8,9 +8,11 @@
 
 ## 📺 Project Walkthrough
 
-<video src="data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4" width="100%" controls>
-  Your browser does not support the video tag.
-</video>
+<div align="center">
+  <video src="https://github.com/maheralmomani03/Valuation-Pro-Insight/blob/main/data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4?raw=true" width="100%" controls>
+    Your browser does not support the video tag.
+  </video>
+</div>
 ---
 
 ## 🔍 Methodology
