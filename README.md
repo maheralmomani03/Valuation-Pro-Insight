@@ -7,7 +7,7 @@
 ---
 
 ## 📺 Project Walkthrough
-> **Note:** Due to file size, click the button below to view the demonstration in a new tab.
+> **Note:** Due to file size, click the red button below to view the demonstration in a new tab.
 
 [![Watch Video](https://img.shields.io/badge/PLAY-VIDEO_WALKTHROUGH-red?style=for-the-badge&logo=youtube&logoColor=white)](data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4)
 
@@ -16,26 +16,26 @@
 ## 🔍 Methodology
 The engine projects future free cash flows and discounts them using the **Weighted Average Cost of Capital (WACC)**.
 
-### The Core Equation:
+### The Core Logic:
 $$PV = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 
-![Methodology](data/DCF_Methodology.png)
+![Methodology Logic](data/Math_Logics.png)
 
 ---
 
 ## 🛠️ Key Capabilities
 
 ### 📊 Model Assumptions
-![Model Sidebar](data/Model_Sidebar.png)
+![Model Inputs](data/Model_Inputs.png)
 
 ### 💎 Valuation Metrics
-![Valuation Metrics](data/Valuation_Metrics.png)
+![Key Metrics](data/Key_Metrics.png)
 
 ### 📈 Waterfall Analysis
-![Waterfall Chart](data/Waterfall_Chart.png)
+![Waterfall Analysis](data/Waterfall_Analysis.png)
 
-### 🔥 Sensitivity Analysis
-![Sensitivity Heatmap](data/Sensitivity_Analysis.png)
+### 🔥 Risk & Sensitivity Analysis
+![Sensitivity Heatmap](data/Sensitivity_Heatmap.png)
 
 ---
 
