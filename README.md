@@ -1,8 +1,6 @@
 # ⚖️ Valuation-Pro | Strategic Financial Insight Engine
 
-[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://valuation-pro-insight-kzmaikx2xcutsuhwrj5az5.streamlit.app/)
-
-**Valuation-Pro** هو محرك مالي متطور صُمم لربط نظريات المحاسبة العميقة بتحليل البيانات التفاعلي، مخصص للمحللين الماليين في سوق **دبي** لاتخاذ قرارات استثمارية مبنية على أرقام دقيقة.
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://valuation-pro-insight-kzmalkx2xcutsuhwrj5az5.streamlit.app/)
 
 ---
 ## 📺 Project Walkthrough
