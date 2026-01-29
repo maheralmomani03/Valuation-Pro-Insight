@@ -7,10 +7,10 @@
 ---
 
 ## 📺 Project Walkthrough
-> **Note:** Due to file size, click the red button below to view the demonstration in a new tab.
 
-[![Watch Video](https://img.shields.io/badge/PLAY-VIDEO_WALKTHROUGH-red?style=for-the-badge&logo=youtube&logoColor=white)](data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4)
-
+<video src="data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4" width="100%" controls>
+  Your browser does not support the video tag.
+</video>
 ---
 
 ## 🔍 Methodology
