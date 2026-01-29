@@ -1,6 +1,6 @@
 # ⚖️ Valuation-Pro | Strategic Financial Insight Engine
 
-[![Streamlit App](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://valuation-pro-insight-kzmaikx2xcutsuhwrj5az5.streamlit.app/)
+[![Streamlit App](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white)](https://valuation-pro-insight-kzmalkx2xcutsuhwrj5az5.streamlit.app/)
 **Valuation-Pro** is a professional-grade modeling tool built to bridge the gap between financial theory and data visualization. Designed for the **Dubai** market, it empowers analysts to determine intrinsic value with dynamic, interactive precision.
 
 ---
