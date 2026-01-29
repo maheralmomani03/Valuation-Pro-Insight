@@ -5,11 +5,10 @@
 **Valuation-Pro** is a professional-grade modeling tool built for the **Dubai** market to determine intrinsic value with dynamic, interactive precision.
 
 ---
-
 ## 📺 Project Walkthrough
 
 <div align="center">
-  <video src="https://github.com/maheralmomani03/Valuation-Pro-Insight/blob/main/data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4?raw=true" width="100%" controls>
+  <video src="https://github.com/user-attachments/assets/1f48c58c-b551-400e-b903-6c5f6ccd043f" width="100%" controls>
     Your browser does not support the video tag.
   </video>
 </div>
