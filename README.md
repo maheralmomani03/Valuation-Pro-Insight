@@ -5,10 +5,10 @@
 
 ---
 
-## 📺 Project Walkthrough
-> **Note:** Due to the high-quality video size, please click the button below to view the demonstration:
+## 📺 Project Demo & Walkthrough
+> **Note:** Click the red button below to watch the high-definition demonstration of the engine.
 
-[![Watch the Video](https://img.shields.io/badge/VIDEO-DEMO_WALKTHROUGH-red?style=for-the-badge&logo=playstation)](data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4)
+[![Watch Video](https://img.shields.io/badge/PLAY-VIDEO_WALKTHROUGH-red?style=for-the-badge&logo=youtube&logoColor=white)](data/Bridging%20Finance%20&%20Tech%20Dynamic%20Intrinsic%20Value%20Modeling.mp4)
 
 ---
 
