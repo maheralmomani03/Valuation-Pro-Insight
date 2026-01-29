@@ -25,7 +25,7 @@ $$PV = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 ## 🛠️ Key Analytical Capabilities
 
 ### 📊 Dynamic Model Assumptions
-<img src="data/Model_Sidebar.png" width="400">
+<img src="data/Model_Sidebar.png" width="800">
 
 ### 💎 Precision Valuation Metrics
 <img src="data/Valuation_Metrics.png" width="800">
@@ -36,6 +36,8 @@ $$PV = \sum_{t=1}^{n} \frac{CF_t}{(1+r)^t}$$
 ### 🔥 Risk & Sensitivity Analysis
 <img src="data/Sensitivity_Analysis.png" width="800">
 
+### 🔍 Methodology Logic
+<img src="data/DCF_Methodology.png" width="800">
 ---
 
 ## 👤 Developer
